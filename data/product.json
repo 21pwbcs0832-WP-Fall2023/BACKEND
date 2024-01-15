@@ -1,0 +1,133 @@
+[
+    {
+    "name": "Smartphone XYZ",
+    "price": 599.99,
+    "description": "An advanced smartphone with cutting-edge features.",
+    "rating": 4.5,
+    "images": [
+        {
+            "product_id": "image1",
+            "url": "https://example.com/image1.jpg"
+        },
+        {
+            "product_id": "image2",
+            "url": "https://example.com/image2.jpg"
+        }
+    ],
+    "category": "Electronics",
+    "sellar": "TechStore",
+    "stock": 100,
+    "numOfReviews": 25,
+    "reviews": [
+        {
+            "name": "John Doe",
+            "rating": 4.0,
+            "comment": "Great product, fast delivery!"
+        },
+        {
+            "name": "Jane Smith",
+            "rating": 5.0,
+            "comment": "Excellent quality and performance."
+        }
+    ]
+},
+{
+    "name": "SuperPhone ABC",
+    "price": 649.99,
+    "description": "A state-of-the-art smartphone with innovative features.",
+    "rating": 4.8,
+    "images": [
+        {
+            "product_id": "image3",
+            "url": "https://example.com/image3.jpg"
+        },
+        {
+            "product_id": "image4",
+            "url": "https://example.com/image4.jpg"
+        }
+    ],
+    "category": "Electronics",
+    "sellar": "GadgetHub",
+    "stock": 80,
+    "numOfReviews": 30,
+    "reviews": [
+        {
+            "name": "Alex Johnson",
+            "rating": 4.5,
+            "comment": "Impressive features, sleek design."
+        },
+        {
+            "name": "Emily White",
+            "rating": 5.0,
+            "comment": "Fast and reliable performance, highly recommend!"
+        }
+    ]
+},
+{
+    "name": "TechMaster 2000",
+    "price": 579.99,
+    "description": "A cutting-edge smartphone with advanced features.",
+    "rating": 4.6,
+    "images": [
+        {
+            "product_id": "image5",
+            "url": "https://example.com/image5.jpg"
+        },
+        {
+            "product_id": "image6",
+            "url": "https://example.com/image6.jpg"
+        }
+    ],
+    "category": "Electronics",
+    "sellar": "GizmoLand",
+    "stock": 95,
+    "numOfReviews": 22,
+    "reviews": [
+        {
+            "name": "Chris Miller",
+            "rating": 4.8,
+            "comment": "Fantastic device, great value for money!"
+        },
+        {
+            "name": "Sophia Brown",
+            "rating": 4.5,
+            "comment": "Sleek design and powerful performance."
+        }
+    ]
+},
+{
+    "name": "InnoTech Pro",
+    "price": 649.99,
+    "description": "An innovative smartphone with top-notch features.",
+    "rating": 4.9,
+    "images": [
+        {
+            "product_id": "image7",
+            "url": "https://example.com/image7.jpg"
+        },
+        {
+            "product_id": "image8",
+            "url": "https://example.com/image8.jpg"
+        }
+    ],
+    "category": "Electronics",
+    "sellar": "FutureGadgets",
+    "stock": 85,
+    "numOfReviews": 28,
+    "reviews": [
+        {
+            "name": "David Taylor",
+            "rating": 5.0,
+            "comment": "Absolutely amazing, exceeded my expectations!"
+        },
+        {
+            "name": "Lily Evans",
+            "rating": 4.8,
+            "comment": "Sleek design and outstanding camera quality."
+        }
+    ]
+}
+
+
+
+]
